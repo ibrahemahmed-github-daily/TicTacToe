@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682873783 source:f:\embedded_studying\c-prog\revision\tictaktoe\tictaktoe\main.c
+	<stdio.h>
+	<stdlib.h>
+
